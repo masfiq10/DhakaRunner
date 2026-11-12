@@ -1,0 +1,6 @@
+{
+  "name": "Dhaka Dash: Endless Metro Runner",
+  "description": "A 3D endless runner set across Dhaka's Metro Rail, Puran Dhaka, and Padma Bridge with procedural levels, rickshaw hoverboards, and deep Bangladeshi character customization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
